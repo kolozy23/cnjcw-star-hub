@@ -1,2 +1,14 @@
 # cnjcw-star-hub
-HTML page archive and documentation
+
+静态页面发布集合
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
